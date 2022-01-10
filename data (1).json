@@ -9,11 +9,18 @@
          "title":"Prologue",
          "volume":"1",
          "groups":{
-            "Springwithyou":[
+            "Springwithyou":
             "/proxy/api/imgur/chapter/<CL8oa36>/"
-            ],
          },
          "last_updated":"1641655171"
-      }
-   }
-}
+      },
+{
+    "chapters":{
+	"1":{
+            "title":"Normal Mode CLeared",
+            "volume":"1",
+            "groups":{
+                "Springwithyou":"/proxy/api/imgur/chapter/nuGcN2E/"
+	    },
+            "last_updated":1641782392
+	},
